@@ -1,0 +1,12 @@
+body {
+  background-image: url("images/Earth-From-Space-HD-Backgrounds.jpg");
+  text-align: center;
+}
+.container {
+  padding-bottom: 40px;
+}
+h1 {
+  padding: 20px;
+  color: #afb7bd;
+  text-align: center;
+}

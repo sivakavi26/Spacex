@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  text-decoration: none;
+  list-style: none;
+}
+body {
+  background-image: url("images/Earth-From-Space-HD-Backgrounds.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: calc(100vh - 80px);
+  text-align: center;
+  color: #afb7bd;
+}
+nav {
+  height: 80px;
+  width: 100;
+}
+label.logo {
+  color: #afb7bd;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+nav ul {
+  float: right;
+  margin-right: 20px;
+}
+nav ul li {
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+nav ul li a {
+  color: #afb7bd;
+  font-size: 17px;
+  padding: 7px 13px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+
+img {
+  width: 10%;
+  height: 5%;
+}
+table {
+  border: 5px solid white;
+}
+#header {
+  padding: 50px;
+  padding-bottom: 0px;
+}
+h4 {
+  padding: 10px;
+  padding-bottom: 0px;
+}
+p {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0px;
+}
